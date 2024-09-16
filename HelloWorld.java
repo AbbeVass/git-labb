@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.print("Vad heter du? ");
         String namn = scanner.nextLine();
         System.out.println("Hej " + namn + "!");
+        System.out.println("hej från ärling");
         scanner.close();
     }
 }
